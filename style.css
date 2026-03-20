@@ -53,3 +53,13 @@ nav ul li a:hover::after{
     background-color: rgba(9, 129, 241, 0.779);
     border-radius: 4px;
 }
+/* ------------------------Header ends here--------------------- */
+
+main{
+    background-image: url("Background_Img.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+    
+}
